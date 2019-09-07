@@ -1,0 +1,4 @@
+version: 1.0
+name: TripleEXP
+main: org.aleksandrail.tripleexp.Main
+author: aleksandrail
